@@ -1,0 +1,14 @@
+Partlist exported from C:/Users/kaigy/Documents/EAGLE/projects/final/design.sch at 8/4/2019 3:36 AM
+
+Part Value                  Device                 Package            Description                                                                  MANUFACTURER_PART_NUMBER MF MPN OC_FARNELL OC_NEWARK SPICEPREFIX VENDOR           
+C1   2uf                    C-EUC0603              C0603              CAPACITOR, European symbol                                                                                                        C                            
+C3   2uf                    C-EUC0603              C0603              CAPACITOR, European symbol                                                                                                        C                            
+DIS2 TUXGR_16X2_R2          TUXGR_16X2_R2          TUXGR_16X2_R2      Tuxgraphics LCD display 16x2 characters reflective, without background light                                 unknown    unknown                                
+L2                          L-US0204/5             0204/5             INDUCTOR, American symbol                                                                                                         L                            
+R1   PC16S                  PC16S                  PC16S              POTENTIOMETER                                                                                                4452940    unknown                                
+R2   1k                     R-US_R0603             R0603              RESISTOR, American symbol                                                                                                         R                            
+S1                          255SB                  255SB              SLIDING SWITCH                                                                                                                                                 
+U$1  ULTRASONIC-HC-SR04     ULTRASONIC-HC-SR04     ULTRASONIC-HC-SR04 Ultrasonic Ranging Module HC-SR04                                                                                                                              
+U$2  BATTERY-HOLDER-2AA     BATTERY-HOLDER-2AA     BATTERY-HOLDER-2AA Battery Holder 2 x AA                                                                                                                                          
+U1   MSP430FR6989IPZPZ100-M MSP430FR6989IPZPZ100-M PZ100-M                                                                                         MSP430FR6989IPZ                                                  Texas Instruments
+U2   TPS62745DSSR           TPS62745DSSR           DSS0012A                                                                                                                                                                          
